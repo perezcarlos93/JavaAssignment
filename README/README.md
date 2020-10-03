@@ -11,3 +11,5 @@ From here, the variable "result" is defined as the outcome of both functions, ad
 The script then runs another function that references the user's chosen length via the first prompt, and creates a loop, choosing one random character from the "result" variable until enough characters are chosen to satisfy the user's chosen length. That function then returns the final result of the randomly generated password. 
 
 Finally, an event clicker is added to the "generate password" button that set's the text box's text content as the result of the looping function, this displaying a randomly generated password that adherers the the user's desired length, and consists of the user's chosen options. 
+
+deployed program can be found at: https://perezcarlos93.github.io/JavaAssignment/
